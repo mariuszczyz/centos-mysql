@@ -1,4 +1,4 @@
-# CentOS 7 Common Initial Setup Tasks
+# CentOS 7 MySQL Installation and Configuration Role
 
 MySQL server installation role for CentOS 7. It installs and configures the latest version of MariaDB. 
 
